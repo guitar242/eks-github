@@ -48,7 +48,7 @@ function getPage(message) {
     + "  background-position: center;\n"
     + "  background-size: cover;\n"
     + "  position: relative;\n"
-    + "  color: red;\n"
+    + "  color: yellow;\n"
     + "  font-family: \"Courier New\", Courier, monospace;\n"
     + "  font-size: 25px;\n"
     + "}\n"
